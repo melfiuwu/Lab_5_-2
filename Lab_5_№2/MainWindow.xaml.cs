@@ -99,7 +99,7 @@ private void Exit_click(object sender, RoutedEventArgs e)
                     try
                     {
 
-
+                       //edit github
                         MessageBox.Show("Файл успешно сохранен.");
                     }
                     catch (Exception ex)
